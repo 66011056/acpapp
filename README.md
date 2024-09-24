@@ -8,7 +8,7 @@ This project is developed for GUI chapter of the Advance Computer Programming cl
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository:1
 
    ```bash
    git clone https://github.com/syanyong/acpapp.git
